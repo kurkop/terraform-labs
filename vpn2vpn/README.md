@@ -1,6 +1,6 @@
 # Google Compute Engine VPN Example
 
-This example joins two GCE networks via VPN.
+This example joins two GCP networks via VPN.
 
 Steps:
 1. Adding networks
